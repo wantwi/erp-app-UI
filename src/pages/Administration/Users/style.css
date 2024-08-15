@@ -1,0 +1,17 @@
+.table-container {
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  
+  /* .table {
+    width: 100%;
+    border-collapse: collapse;
+
+  } */
+  
+  th {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1;
+  }

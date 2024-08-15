@@ -1,0 +1,19 @@
+.table-wrapper {
+    max-height: 70vh; 
+    overflow-y: auto;
+    
+}
+
+.table-wrapper thead {
+    position: sticky;
+    top: 0;
+    
+    z-index: 2; 
+}
+
+.sticky-col{
+    position: sticky;
+    left: 0;
+    background-color: #f5f5f5; /* Optional: Set a background color for the sticky column */
+    z-index: 1; /* Ensure the sticky column is above the table content */
+}

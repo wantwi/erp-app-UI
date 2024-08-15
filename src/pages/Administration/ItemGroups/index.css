@@ -1,0 +1,54 @@
+/* .react-switch-bg{
+    width: 80px !important;
+}
+
+.react-switch-handle{
+    margin-left: 24px !important;
+}
+
+.react-switch-handle-off{
+    margin-right: 24px !important;
+    margin-left: 0px !important;
+} */
+
+.css-1nmdiq5-menu{
+    background-color: #fff !important;
+}
+
+div[id*="-listbox"] {
+    background-color: #fff !important;
+}
+
+/* #react-select-1-listbox{
+    background-color: red !important;
+}
+#react-select-2-listbox{
+    background-color: red !important;
+}
+#react-select-3-listbox{
+    background-color: red !important;
+}
+#react-select-4-listbox{
+    background-color: red !important;
+}
+#react-select-5-listbox{
+    background-color: red !important;
+}
+#react-select-6-listbox{
+    background-color: red !important;
+}
+#react-select-7-listbox{
+    background-color: red !important;
+}
+#react-select-8-listbox{
+    background-color: red !important;
+}
+#react-select-9-listbox{
+    background-color: red !important;
+} */
+
+
+
+.css-13cymwt-control{
+    border: red;
+}

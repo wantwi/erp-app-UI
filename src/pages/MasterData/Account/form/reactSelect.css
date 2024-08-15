@@ -1,0 +1,38 @@
+﻿#react-select-2-listbox {
+    z-index: 100 !important;
+    background:"#fff" !important
+}
+.select-container {
+    margin-bottom: 20px;
+  }
+  
+  .b-error {
+    border: 1px solid #f46a6a;
+  }
+  
+  .error-message {
+    color: #f46a6a;
+  }
+  .css-1jllj6i-control{
+    margin: 0 !important;
+    width: 220px !important;
+  }
+
+  .css-48ayfv{
+    width: 100% !important;
+    background-color: hsl(0,0%,100%) !important;
+    border-color: hsl(0,0%,80%) !important;
+  }
+  .multi-select-wrapper button{
+    width: 100% !important;
+    background-color: hsl(0,0%,100%) !important;
+    border-color: hsl(0,0%,80%) !important;
+    border: 1px solid hsl(0,0%,80%) !important;
+  }
+  /* .multi-select-wrapper div:nth-child(3){
+    margin: 0 !important;
+    width: 220px !important;
+  }
+  .multi-select-wrapper input[type='text']{
+    width: 220px !important;
+  } */
